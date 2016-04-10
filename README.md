@@ -1,2 +1,2 @@
 # Flisol-2016
-from yeoman webapp-generator 
+URL - http://neocarvajal.github.io/Flisol-2016/
