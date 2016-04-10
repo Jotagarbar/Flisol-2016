@@ -3,7 +3,13 @@
 console.log("Fisol Cumana 2016 UP");
 
 /*! Main */
-jQuery(document).ready(function($) {
+$(document).ready(function($) {
+
+    $( "#anclas" ).on( "click", "li" ,function(){        
+        console.log(this.id); 
+        
+        
+    });    
 
    //  navbar fixed saliendo del banner
     var navbar = $('#navbar-main'),
@@ -20,3 +26,4 @@ jQuery(document).ready(function($) {
         }
     });
 });
+
