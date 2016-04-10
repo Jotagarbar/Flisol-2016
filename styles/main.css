@@ -9,7 +9,11 @@ html {
     -webkit-text-size-adjust: 100%
 }
 body {
+<<<<<<< HEAD
     margin: 0;
+=======
+    margin: 0
+>>>>>>> 413e5a53faace43e1e824283d33c647de1e99537
 }
 article,
 aside,
@@ -24,7 +28,11 @@ menu,
 nav,
 section,
 summary {
+<<<<<<< HEAD
     display: block;
+=======
+    display: block
+>>>>>>> 413e5a53faace43e1e824283d33c647de1e99537
 }
 audio,
 canvas,
@@ -6856,6 +6864,7 @@ body {
 .marketing p+h4 {
     margin-top: 28px
 }
+<<<<<<< HEAD
 .patrocinantes img{
     width:220px;
     height:150px;
@@ -6865,6 +6874,8 @@ body {
 
 }
 
+=======
+>>>>>>> 413e5a53faace43e1e824283d33c647de1e99537
 .componente {
     border-radius: 2px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
@@ -6877,7 +6888,11 @@ body {
 
 /* boton para subir con efecto*/
 #up_site {
+<<<<<<< HEAD
     background-color: rgba(176,176,176,0.5); 
+=======
+	background-color: rgba(176,176,176,0.5); 
+>>>>>>> 413e5a53faace43e1e824283d33c647de1e99537
     position: fixed;
     bottom: 8px;
     right: 8px;
