@@ -6856,9 +6856,9 @@ body {
 .marketing p+h4 {
     margin-top: 28px
 }
-.patrocinantes img{
-    width:220px;
-    height:150px;
+.patrocinantes img{    
+    width: 150px;
+    height:50px;
 }
 .patrocinantes h3 {
     text-align: center;
@@ -6930,8 +6930,10 @@ body {
         justify-content: center
     }
     #mensaje {
-        font-size: 18px
+        font-size: 18px;        
     }
+
+
     .jumbotron {
         display: -webkit-box;
         display: -webkit-flex;
